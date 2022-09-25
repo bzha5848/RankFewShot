@@ -1,0 +1,7 @@
+path: ../content/YOLOFun/Group10  
+train: /content/YOLOFun/Group10/group27/images
+val: /content/YOLOFun/Group10/test/images  
+test: /content/YOLOFun/Group10/test/images 
+
+nc: 22
+names: ['aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus', 'car', 'cat', 'chair', 'cow', 'diningtable', 'dog', 'horse', 'motorbike', 'person', 'pottedplant', 'sheep', 'sofa', 'train', 'tvmonitor','frogeye','rust']
