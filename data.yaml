@@ -1,5 +1,5 @@
 path: ../content/YOLOFun/Group10  
-train: /content/YOLOFun/Group10/method5Img5/images
+train: /content/YOLOFun/Group10/method7Img5/images
 val: /content/YOLOFun/Group10/test/images  
 test: /content/YOLOFun/Group10/test/images 
 
