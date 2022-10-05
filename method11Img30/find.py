@@ -30,9 +30,9 @@ def fileFind(number, file):
                             # count = 0
             if is_here:
                 count = count+1
-                if count >= 7:
-                    file.write(item+'\n')
-                    count = 0
+                # if count >= 7:
+                file.write(item+'\n')
+                count = 0
 
 f = open("fewshots.txt", "w")
 # for n in range(0, 80):
