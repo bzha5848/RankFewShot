@@ -1,2 +1,2 @@
 # Group10
-randomly take 10 imgs for apple dataset
+Few-shots selected by rating system.
